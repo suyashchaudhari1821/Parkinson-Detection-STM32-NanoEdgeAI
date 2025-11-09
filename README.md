@@ -68,4 +68,4 @@ NanoEdge AI Studio is used to train and deploy a lightweight AI model that runs 
 ---
 
 **Author:** Suyash Chaudhari 
-**GitHub Repo:** https://github.com/[yourusername]/Parkinson-Detection-STM32-NanoEdgeAI
+
